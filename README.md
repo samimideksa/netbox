@@ -31,6 +31,8 @@ NetBox is built against both Python 2.7 and 3.5.  Python 3.5 is recommended.
 
 ![Screenshot of prefix hierarchy](docs/media/screenshot3.png "Prefix hierarchy")
 
+Samuel just modified readme.
+
 # Installation
 
 Please see [the documentation](http://netbox.readthedocs.io/en/stable/) for
